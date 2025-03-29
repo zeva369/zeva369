@@ -3,7 +3,7 @@
 ### * Backend Developer
 ### * Enthusiastic about solving problems through algorithms
 
-## Technologies & more
+## Technologies & tools
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
@@ -47,6 +47,12 @@ Also:
 * Kafka
 * Quarkus
 * ...
+
+## Currently learning
+- Architecting with Google Cloud Platform
+- Neo4J Cypher queries
+- Vagrant
+- Terraform
 
 
 <!--
