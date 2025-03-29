@@ -45,7 +45,7 @@
 Also:
 * Maven
 * Kafka
-* ![Quarkus](https://simpleicons.org/icons/quarkus.svg)
+* Quarkus
 * ...
 
 
