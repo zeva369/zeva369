@@ -51,6 +51,7 @@ Also:
 ## Currently learning
 - Architecting with Google Cloud Platform
 - Neo4J Cypher queries
+- Reactive Programming with Mutiny
 - Vagrant
 - Terraform
 
