@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-### * Backend Developer
-### * Enthusiastic about solving problems through algorithms
+
+> I'm a Backend Developer,</br>
+> Enthusiastic about solving problems through algorithms,</br>
+> Advocate for simple solutions...
 
 ## Technologies & tools
 
@@ -42,7 +44,7 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
-Also:
+But also:
 * Maven
 * Kafka
 * Quarkus
