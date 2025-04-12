@@ -10,10 +10,9 @@ Y8888888P `88888P' 8888P'   `88888P8 d88888P `Y888P' `8888P
 
 ## Hi there 👋
 
-
-> I'm a Backend Developer,</br>
-> Enthusiastic about solving problems through algorithms,</br>
-> Advocate for simple solutions...
+I'm a Backend Developer,</br>
+Enthusiastic about solving problems through algorithms,</br>
+Advocate for simple solutions...
 
 ## Technologies & tools
 
@@ -58,7 +57,7 @@ But also:
 * Maven
 * Kafka
 * Quarkus
-* ...
+* & more...
 
 ## Currently learning
 - Architecting with Google Cloud Platform
