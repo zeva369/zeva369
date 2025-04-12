@@ -6,7 +6,7 @@ d8888888P                            d8888b. .d8888P .d888b.
 d8'       88.  ... 88 .88'  88.  .88     .88 8b. .d8 d.  .88 
 Y8888888P `88888P' 8888P'   `88888P8 d88888P `Y888P' `8888P  
 ```
-![](ascii-animation2.gif)
+![](ascii-animation.gif)
 
 ## Hi there 👋
 
